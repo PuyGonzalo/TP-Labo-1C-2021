@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\Macros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\Debug\TP2_Codigo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TP2_Codigo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TP2_Codigo.map</FILE>
+  <FILE>TP2_Codigo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DISPLAY_NUMEROS_RAM><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>33</LINE></DISPLAY_NUMEROS_RAM>
+  <config><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>45</LINE></config>
+  <isr_int0><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>99</LINE></isr_int0>
+  <main><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>53</LINE></main>
+  <copiar_a_RAM><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>63</LINE></copiar_a_RAM>
+  <inicio><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>72</LINE></inicio>
+  <end><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>58</LINE></end>
+  <DISPLAY_NUMEROS_ROM><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>160</LINE></DISPLAY_NUMEROS_ROM>
+  <copy><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>67</LINE></copy>
+  <posicion_inicial><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>77</LINE></posicion_inicial>
+  <setear_display><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>85</LINE></setear_display>
+  <bucle_delay><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>101</LINE></bucle_delay>
+  <delay><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>146</LINE></delay>
+  <retorno_isr><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>141</LINE></retorno_isr>
+  <incrementar><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>112</LINE></incrementar>
+  <decrementar><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>125</LINE></decrementar>
+  <fin_incremento><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>121</LINE></fin_incremento>
+  <fin_decremento><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>134</LINE></fin_decremento>
+  <L1><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\Github\2021_1c_trabajos_practicos-gongus\TP 2\Proyecto_TP2\TP2_Codigo\main.asm</FILE><LINE>149</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

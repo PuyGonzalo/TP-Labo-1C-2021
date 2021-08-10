@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\MACROS.inc</FILE>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\DEFINES.inc</FILE>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\ENVIARYRECIBIR.inc</FILE>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\Debug\TP3_Codigo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TP3_Codigo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TP3_Codigo.map</FILE>
+  <FILE>TP3_Codigo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CONFIG><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\main.asm</FILE><LINE>19</LINE></CONFIG>
+  <MAIN><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\main.asm</FILE><LINE>24</LINE></MAIN>
+  <DISPLAY_MSG><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\ENVIARYRECIBIR.inc</FILE><LINE>10</LINE></DISPLAY_MSG>
+  <RECIBIR><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\main.asm</FILE><LINE>26</LINE></RECIBIR>
+  <GET_DATA><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\ENVIARYRECIBIR.inc</FILE><LINE>27</LINE></GET_DATA>
+  <SET_LEDs><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE><LINE>9</LINE></SET_LEDs>
+  <INIT_MSG><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\main.asm</FILE><LINE>37</LINE></INIT_MSG>
+  <SET_CHAR><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\ENVIARYRECIBIR.inc</FILE><LINE>12</LINE></SET_CHAR>
+  <RETORNO><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\ENVIARYRECIBIR.inc</FILE><LINE>23</LINE></RETORNO>
+  <SEND><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\ENVIARYRECIBIR.inc</FILE><LINE>16</LINE></SEND>
+  <LED_1><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE><LINE>24</LINE></LED_1>
+  <LED_2><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE><LINE>28</LINE></LED_2>
+  <LED_3><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE><LINE>32</LINE></LED_3>
+  <LED_4><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE><LINE>36</LINE></LED_4>
+  <on_off><FILE>C:\Users\gonza\OneDrive\Documentos\Labo de Micro\TP's\TP 3\Proyecto_TP3\TP3_Codigo\LEDs.inc</FILE><LINE>40</LINE></on_off>
+ </LABELS>
+</ASSEMBLER_INFO>

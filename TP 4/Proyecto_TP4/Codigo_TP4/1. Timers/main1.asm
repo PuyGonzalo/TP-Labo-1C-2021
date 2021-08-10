@@ -1,0 +1,33 @@
+;
+; TP4 - Timers
+;
+; Created: 3/7/2021 20:57:45
+; Autor : Puy Gonzalo
+; Padron : 99784
+;
+
+.INCLUDE "m328pdef.inc"
+.INCLUDE "MACROS.inc"
+.INCLUDE "DEFINES.inc"
+
+.CSEG
+.ORG 0x0000
+		JMP		CONFIG
+.ORG OVF1addr
+		JMP		ISR_OVERFLOW
+
+.ORG INT_VECTORS_SIZE
+
+CONFIG:
+		initSP
+		initPORTS
+		configTimer1
+
+MAIN:
+		CALL	READ_VALUE
+		CALL	SELEC_MODO
+
+		JMP		MAIN
+
+.INCLUDE "LED_TIMER_CONTROL.inc"
+.INCLUDE "READ.inc"

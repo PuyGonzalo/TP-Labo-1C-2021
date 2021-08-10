@@ -1,0 +1,21 @@
+Circuit: * C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Simulacion\TP_Integrador_Simulacion.asc
+
+.OP point found by inspection.
+
+Date: Wed Jul 21 19:13:08 2021
+Total elapsed time: 0.116 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1900
+traniter = 1900
+tranpoints = 951
+accept = 783
+rejected = 168
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1:       3 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 175 bytes object code size  0.2/0.2/[0.1]
+

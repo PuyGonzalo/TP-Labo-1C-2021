@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\MACROS.inc</FILE>
+  <FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\DEFINES.inc</FILE>
+  <FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE>
+  <FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\SEND_ADC.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\Debug\Codigo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Codigo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Codigo.map</FILE>
+  <FILE>Codigo.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PERIODO><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\main.asm</FILE><LINE>14</LINE></PERIODO>
+  <CONFIG><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\main.asm</FILE><LINE>22</LINE></CONFIG>
+  <MAIN><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\main.asm</FILE><LINE>29</LINE></MAIN>
+  <CALCULAR_PERIODO><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE><LINE>9</LINE></CALCULAR_PERIODO>
+  <ADC_CONVERT><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\main.asm</FILE><LINE>33</LINE></ADC_CONVERT>
+  <ADC_SEND><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\SEND_ADC.INC</FILE><LINE>9</LINE></ADC_SEND>
+  <LOOP_P1><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE><LINE>12</LINE></LOOP_P1>
+  <LOOP_P2><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE><LINE>19</LINE></LOOP_P2>
+  <SET_NUM><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE><LINE>32</LINE></SET_NUM>
+  <RETORNO_CALCULAR_PERIODO><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE><LINE>46</LINE></RETORNO_CALCULAR_PERIODO>
+  <SEND><FILE>C:\Users\gonza\Documents\Labo de Micro\TPs\TP Integrador\Proyecto_TP_Integrador\Codigo\PERIODO.inc</FILE><LINE>38</LINE></SEND>
+ </LABELS>
+</ASSEMBLER_INFO>

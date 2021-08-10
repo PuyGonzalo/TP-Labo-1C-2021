@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Archivos de Programas\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>E:\Archivos de Programas\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\main2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Archivos de Programas\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>E:/Archivos de Programas\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\MACROS2.inc</FILE>
+  <FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\DEFINES2.inc</FILE>
+  <FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE>
+  <FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\DCCONTROL.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\Debug\Codigo_TP4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Codigo_TP4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Codigo_TP4.map</FILE>
+  <FILE>Codigo_TP4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CONFIG><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\main2.asm</FILE><LINE>25</LINE></CONFIG>
+  <isr_DOWN><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE><LINE>11</LINE></isr_DOWN>
+  <isr_UP><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE><LINE>24</LINE></isr_UP>
+  <MAIN><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\main2.asm</FILE><LINE>31</LINE></MAIN>
+  <DC_CONTROL><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\main2.asm</FILE><LINE>35</LINE></DC_CONTROL>
+  <UP><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\DCCONTROL.inc</FILE><LINE>9</LINE></UP>
+  <DOWN><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\DCCONTROL.inc</FILE><LINE>21</LINE></DOWN>
+  <DELAY><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE><LINE>39</LINE></DELAY>
+  <RETORNO_isrDOWN><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE><LINE>20</LINE></RETORNO_isrDOWN>
+  <RETORNO_isrUP><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE><LINE>33</LINE></RETORNO_isrUP>
+  <L1><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\INTERRUPCIONES.inc</FILE><LINE>42</LINE></L1>
+  <UP_RETORNO><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\DCCONTROL.inc</FILE><LINE>18</LINE></UP_RETORNO>
+  <DOWN_RETORNO><FILE>E:\Documentos\Facultad\Labo de Micro\TP's\2021_1c_trabajos_practicos-gongus\TP 4\Proyecto_TP4\Codigo_TP4\2. PWM\DCCONTROL.inc</FILE><LINE>30</LINE></DOWN_RETORNO>
+ </LABELS>
+</ASSEMBLER_INFO>
